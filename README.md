@@ -19,7 +19,7 @@ I'm **Senior Full Stack Developer** (since **20** years)
 - [Aerospike Cluster](https://github.com/aerospike/aerospike-server), [Redis Cluster](https://github.com/redis/redis)
 - [Nats Cluster](https://github.com/nats-io/nats-server), [NATS WebSocket](https://github.com/nats-io/nats.ws)
 - [Vue.js](https://github.com/vuejs/vue), [React](https://github.com/facebook/react)
-- [Kubernetes (K8s)](https://github.com/kubernetes/kubernetes), [Docker](https://github.com/docker), **Managing high traffic visitors, datas, risk management, concurrent high visitor management.**, Server controls setup etc. (CentOS, Redhat)
+- [Kubernetes (K8s)](https://github.com/kubernetes/kubernetes), [Docker](https://github.com/docker), **Managing high traffic visitors ~ datas, risk management, concurrent high visitor management.**, Server controls setup etc. (CentOS, Redhat)
 - **devOps**
 
 <!--
