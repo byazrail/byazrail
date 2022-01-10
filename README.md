@@ -4,7 +4,7 @@ My name is Ali.
 I'm **Senior Full Stack Developer** (since **20** years)
 
 🔭 I’m currently working on [Aerospike Cluster](https://github.com/aerospike/aerospike-server), [Nats Cluster](https://github.com/nats-io/nats-server) High traffic data operations.
-## Development game projects
+## Development projects
 - [AstroGame](https://astrogame.org)
 - [OzelFizyoterapist](https://ozelfizyoterapist.net)
 - More private projects.
