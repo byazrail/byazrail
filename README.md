@@ -4,7 +4,7 @@ My name is Ali.
 I'm **Senior Full Stack Developer** (since **20** years)
 
 🔭 I’m currently working on [Aerospike Cluster](https://github.com/aerospike/aerospike-server), [Nats Cluster](https://github.com/nats-io/nats-server) High traffic data operations.
-## Development projects
+## Development Projects
 - [AstroGame](https://astrogame.org)
 - [OzelFizyoterapist](https://ozelfizyoterapist.net)
 - More private projects.
@@ -13,7 +13,6 @@ I'm **Senior Full Stack Developer** (since **20** years)
 - [PHP 7, 8, 8.1](https://github.com/php), [Golang](https://github.com/golang)
 - Javascript, Node.js, HTML 5, CSS 3 etc.
 - [Objective-C](https://en.wikipedia.org/wiki/Objective-C) for iOS Development, [Swift](https://github.com/apple/swift) for iOS Development
-
 - [CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4), [PostgreSQL Cluster](https://github.com/postgres/postgres), Oracle DBA
 - [Patroni](https://github.com/zalando/patroni), [pgBackRest](https://github.com/pgbackrest/pgbackrest)
 - [Aerospike Cluster](https://github.com/aerospike/aerospike-server), [Redis Cluster](https://github.com/redis/redis)
