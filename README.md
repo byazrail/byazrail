@@ -5,6 +5,7 @@ I'm **Senior Full Stack Developer** (since **20** years)
 
 ## Profiles
 - [GitLab](https://gitlab.com/byazrail)
+- [LinkedIn](https://www.linkedin.com/in/byazrail)
 
 🔭 I’m currently working on [Aerospike Cluster](https://github.com/aerospike/aerospike-server), [Nats Cluster](https://github.com/nats-io/nats-server) High traffic data operations.
 ## Development Projects
