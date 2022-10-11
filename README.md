@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Ali.
 
-I'm **Senior Full Stack Developer, devOps, Athlete** (since **20** years)
+I'm **Senior Full Stack Developer** (since **20** years) **devOps, Athlete**
 
 ## Profiles
 - [GitLab](https://gitlab.com/byazrail)
