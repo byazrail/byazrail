@@ -14,7 +14,7 @@ I'm **Senior Full Stack Developer** (since **24** years), **devOps, Athlete**
 - More private projects.
 
 ## Languages, Technologies
-- [PHP 7, 8, 8.1, 8.3](https://github.com/php), [Golang](https://github.com/golang)
+- [PHP 7, 8, 8.1, 8.3, 8.4](https://github.com/php), [Golang](https://github.com/golang)
 - Java
 - Javascript, Node.js, HTML 5, CSS 3 etc.
 - [Objective-C](https://en.wikipedia.org/wiki/Objective-C) for iOS Development, [Swift](https://github.com/apple/swift) for iOS Development
