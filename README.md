@@ -33,16 +33,23 @@ I value **stability, scalability, and clean architecture** — where performance
 ### ⚙️ Technologies & Languages
 
 **Core Backend:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white#gh-light-mode-only"><img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white#gh-dark-mode-only"></a>
+<a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white#gh-light-mode-only"><img src="https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white#gh-dark-mode-only"></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white#gh-light-mode-only"><img src="https://img.shields.io/badge/Python-1D5E9A?style=for-the-badge&logo=python&logoColor=white#gh-dark-mode-only"></a>
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white#gh-light-mode-only"><img src="https://img.shields.io/badge/Java-004C66?style=for-the-badge&logo=openjdk&logoColor=white#gh-dark-mode-only"></a>
+<a href="https://www.oracle.com/database"><img src="https://img.shields.io/badge/Oracle%20DBA-F80000?style=for-the-badge&logo=oracle&logoColor=white#gh-light-mode-only"><img src="https://img.shields.io/badge/Oracle%20DBA-B31400?style=for-the-badge&logo=oracle&logoColor=white#gh-dark-mode-only"></a>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
+**Mobile Development:**  
+<a href="https://developer.apple.com/"><img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white#gh-light-mode-only"><img src="https://img.shields.io/badge/Objective--C-2965C7?style=for-the-badge&logo=apple&logoColor=white#gh-dark-mode-only"></a>
+<a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white#gh-light-mode-only"><img src="https://img.shields.io/badge/Swift-C1562D?style=for-the-badge&logo=swift&logoColor=white#gh-dark-mode-only"></a>
+
 **Data Systems & Clusters:**  
-![Aerospike](https://img.shields.io/badge/Aerospike-D22D2E?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS-3B78E7?style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<a href="https://www.aerospike.com"><img src="https://img.shields.io/badge/Aerospike-D22D2E?style=for-the-badge#gh-light-mode-only"><img src="https://img.shields.io/badge/Aerospike-B41E1E?style=for-the-badge#gh-dark-mode-only"></a>
+<a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white#gh-light-mode-only"><img src="https://img.shields.io/badge/Redis-A92A22?style=for-the-badge&logo=redis&logoColor=white#gh-dark-mode-only"></a>
+<a href="https://nats.io"><img src="https://img.shields.io/badge/NATS-3B78E7?style=for-the-badge#gh-light-mode-only"><img src="https://img.shields.io/badge/NATS-2359B1?style=for-the-badge#gh-dark-mode-only"></a>
+<a href="https://www.rabbitmq.com"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white#gh-light-mode-only"><img src="https://img.shields.io/badge/RabbitMQ-D15500?style=for-the-badge&logo=rabbitmq&logoColor=white#gh-dark-mode-only"></a>
 ![Patroni](https://img.shields.io/badge/Patroni-1E88E5?style=for-the-badge)
 ![pgBackRest](https://img.shields.io/badge/pgBackRest-4E4E4E?style=for-the-badge)
 
